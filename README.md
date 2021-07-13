@@ -697,6 +697,8 @@ d. Determine el voltaje en R5.
 
 IV. VIDEO
 
+https://youtu.be/iNrtGe-CV_k
+
 
 V. CONCLUSIONES
 
