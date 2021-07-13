@@ -360,6 +360,53 @@ I=20V/(100 Ω)=1/5=0.2 A
 =11.67A
 
 
+35. Un voltímetro con una sensibilidad de S 20 k Ω /V se usa en la escala de 10 V (con una resistencia interna total de 200 k Ω)
+36.  para medir el voltaje en el resistor de 750 k Ω de la figura 7-74. 
+
+
+El medidor indica un voltaje de 5.00 V.
+
+a. Determine el valor de la fuente de voltaje E.
+
+b. ¿Qué voltaje se presentará en el resistor de 750 k Ω cuando el voltímetro se quite del circuito?
+
+c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+
+ d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 k Ω, ¿cuál será la lectura?
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/125487006-424351a7-e46c-468f-acb6-a2848c88efa3.png)
+
+ 
+ 
+![WhatsApp Image 2021-07-13 at 10 56 50](https://user-images.githubusercontent.com/85263529/125486650-048d82e4-ee53-4137-b75a-e563a575d9f7.jpeg)
+
+![WhatsApp Image 2021-07-13 at 10 57 22](https://user-images.githubusercontent.com/85263529/125486732-9f877414-f6b5-44be-a98b-592add92fd7b.jpeg)
+
+![WhatsApp Image 2021-07-13 at 10 57 44](https://user-images.githubusercontent.com/85263529/125486819-132d800f-b9cf-407e-a982-7febd86f5c5b.jpeg)
+
+
+37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+
+
+ a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.
+ 
+ b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito. 
+ 
+c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
+
+![image](https://user-images.githubusercontent.com/85263529/125487061-47541482-93bf-4de5-a840-ffc741428a07.png)
+
+Para medir corrientes se necesita poner el multímetro en serie y por ello para la I1 podemos abrir desde el positivo de la fuente 
+hasta la resistencia de 5.6 kohm y ubicarlo asimilando que es un cable por donde pasara la corriente.
+
+![WhatsApp Image 2021-07-13 at 11 12 14](https://user-images.githubusercontent.com/85263529/125487591-409d0889-1230-425d-8555-0c1005807c69.jpeg)
+
+![WhatsApp Image 2021-07-13 at 10 58 46](https://user-images.githubusercontent.com/85263529/125487689-fbf2d10a-3b50-4092-b604-4f3d0d6e2bea.jpeg)
+
+
+
+
+
 
 
 
