@@ -39,6 +39,9 @@ CAP #7
 
 CAP #8
 
+![image](https://user-images.githubusercontent.com/85263529/125405307-34221c80-e37d-11eb-879c-2080e4e3d3ea.png)
+
+
 III.RESOLUCIÓN DE EJERCICIOS:
 
 
