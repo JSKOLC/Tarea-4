@@ -14,9 +14,22 @@ TACO LOACHAMIN LIZETH CAROLINA
 
 TEMA: CIRCUITOS EN SERIE - PARALELO Y MÉTODOS DE ANÁLISIS
 
-OBJETIVOS:
+I.OBJETIVOS:
 
-MARCO TEÓRICO:
+Generales:
+
+•	Analizar directamente de las leyes fundamentales(Se abre en una ventana nueva) (ley de Ohm y ley de Kirchhoff
+
+•	Desarrollar la aplicación directa de la ley de Ohm cuando derivamos ecuaciones para resistores en serie y en paralelo
+
+Específicos:
+
+•	Aprender cómo analizar los circuitos a mano.
+
+•	Reconocer mallas, ramas y nodos 
+
+
+II.MARCO TEÓRICO:
 
 CAP #7
 
@@ -26,7 +39,7 @@ CAP #7
 
 CAP #8
 
-RESOLUCIÓN DE EJERCICIOS:
+III.RESOLUCIÓN DE EJERCICIOS:
 
 
 7-1 La red en serie-paralelo
@@ -214,11 +227,27 @@ V=2.72
 
  a. Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo.
  
-b. Si R2 se ajusta para tener 2.5 kΩ ¿cuál será el voltaje VL? Si se remueve el resistor de carga ¿qué voltaje
-aparecerá entre las terminales a y b?
 
 
 ![image](https://user-images.githubusercontent.com/85263529/125386549-18f5e380-e362-11eb-949f-32482aa30e61.png)
+
+R1 Intervalo R2
+
+potenciometro 10kOhm
+
+RL=V/I
+
+RL=(36 V)/(20 )=1.8 
+
+=(36 V)/(10 )=3.6
+
+RANGO:
+
+Mínimo y máximo
+1.8 ⟷3.6
+
+
+
 
 
 5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
@@ -234,6 +263,102 @@ las potencias disipadas por los resistores en el circuito de la figura 8-68.
 ![image](https://user-images.githubusercontent.com/85263529/125393848-4f396000-e36e-11eb-88ce-4deea841e4de.png)
 
 8-2 Conversiones de fuente
+
+29.  Si el potenciómetro de la figura 7-70 se ajusta para que R2 200 determine los voltajes Vab y Vbc.
+
+![image](https://user-images.githubusercontent.com/85263529/125398228-a7736080-e374-11eb-889e-2715392ba271.png)
+
+
+a)
+
+Vab=V1R2/((R1+R2))
+
+Vab=24V R2/((R1+R2))
+
+Vab=24V 200Ω/((200Ω+100Ω))
+=16 Vab
+
+
+b)
+
+
+Vcb=V1R2/((R1+R2))
+
+Vcb=24V R2/((R1+R2))
+
+Vcb=24V 200Ω/((50Ω+200Ω))
+
+
+=32 Vcb
+
+31. Vea el circuito de la figura 7-71: 
+
+
+a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta 
+del mínimo al máximo.
+
+ b. Calcule R2 cuando V Sal 20 V.
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/125398365-d5f13b80-e374-11eb-9c45-c3a7653f5fee.png)
+
+
+a)
+
+potenciómetro 10kohm
+
+V=120v (10 kohm)/(10kohm+10khm)
+
+=60  Vs
+
+V=120v (10 kohm)/(5kohm+10khm)
+
+=80  Vs
+
+
+	b)
+ 
+Vs=V R2/((R1+R2))
+
+20V=120V R2/((10+R2))
+
+(10+R2)20V=120VR2
+
+R2=(120+10)/20
+
+=6.5 VS
+
+33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL 0 Ω, 250 Ω y 500 Ω
+
+![image](https://user-images.githubusercontent.com/85263529/125398486-ffaa6280-e374-11eb-9faa-f231649b650b.png)
+
+Vsal=V1 IR2/(I(R1+R2))=V1R2/((R1+R2))
+
+Vsal=20V IR2/I(R1+R2) 
+
+=20V(I ((R2∥RL))/((R1+R2)∥RL))
+
+I=V/R
+
+1) I=20V/(100 Ω)=1/5=0.2 A
+
+I=20V/(100 Ω)=1/5=0.2 A
+
+2) I=20V/(500 Ω)=1/25=0.04 A
+
+
+ΙT=0.44 A
+
+=20V(0.44 A ((100 Ω∥500 Ω))/((100 Ω+100 Ω)∥500 Ω))
+
+=20V[(((100 Ω)(500 Ω))/((100 Ω+500 Ω) ))/(500(200Ω)/(500Ω+200Ω))]
+
+=20V[83.33Ω/(142.8Ω )]
+
+=11.67A
+
+
+
+
 
 
 
@@ -366,7 +491,23 @@ Eliminamos la fuente de corriente:
 ![image](https://user-images.githubusercontent.com/85263529/125394978-21edb180-e370-11eb-8605-2c5c806b9736.png)
 
 
+IV. VIDEO
 
+
+V. CONCLUSIONES
+
+•	La orientación para resolver varios circuitos propuestos en el trabajo se estableció en las leyes fundamentales,
+y obtuvimos la respuesta correcta. Pero, nuestra elección de ecuaciones pareció de alguna manera arbitraria.
+ En lo que sigue, vamos a hablar sobre dos métodos eficientes y bien organizados para resolver cualquier circuito,
+ el método de voltaje en nodos y el método de corriente de malla.
+ 
+ 
+•	Varios elementos están conectados en paralelo cuando están conectados a la misma tensión.
+
+
+
+VI.BIBLIOGRAFÍA
+Robbins, A. (2008). Analisis de circuitos. Teoria y practica. santa fe: cengage learning. Zapata, F. (. ((2 de June de 2021)). fisica. Leyes de Kirchhof, 5.
 
 
 
