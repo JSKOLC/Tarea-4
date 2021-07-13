@@ -316,6 +316,22 @@ Establezca que Rx varie de 500 _ a 5k_ en incrementos de 100 _.
 
 ![image](https://user-images.githubusercontent.com/85263529/125384225-3759e000-e35e-11eb-9f27-82b429037d7f.png)
 
+![image](https://user-images.githubusercontent.com/85263529/125392280-7cd0da00-e36b-11eb-8135-b3102fdbc9cf.png)
+
+3. Vea el circuito de la figura 8-66:
+
+![image](https://user-images.githubusercontent.com/85263529/125392323-92de9a80-e36b-11eb-90c8-1f0d0f579f5c.png)
+
+Encuentre la corriente I3. 
+
+![image](https://user-images.githubusercontent.com/85263529/125392429-c7525680-e36b-11eb-9038-20fe15c31d20.png)
+
+Determine los voltajes VS y V1.
+
+![image](https://user-images.githubusercontent.com/85263529/125392496-e0f39e00-e36b-11eb-89a6-916b313f12fe.png)
+
+
+
 
 
 
