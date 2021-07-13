@@ -357,6 +357,15 @@ Determine los voltajes VS y V1.
 
 ![image](https://user-images.githubusercontent.com/85263529/125392496-e0f39e00-e36b-11eb-89a6-916b313f12fe.png)
 
+5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
+
+![image](https://user-images.githubusercontent.com/85263529/125394905-04b8e300-e370-11eb-9753-69ed33f3a004.png)
+
+Eliminamos la fuente de corriente:
+
+![image](https://user-images.githubusercontent.com/85263529/125394978-21edb180-e370-11eb-8605-2c5c806b9736.png)
+
+
 
 
 
