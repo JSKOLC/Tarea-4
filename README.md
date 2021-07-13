@@ -217,7 +217,34 @@ V=2.72
 b. Si R2 se ajusta para tener 2.5 kΩ ¿cuál será el voltaje VL? Si se remueve el resistor de carga ¿qué voltaje
 aparecerá entre las terminales a y b?
 
+
 ![image](https://user-images.githubusercontent.com/85263529/125386549-18f5e380-e362-11eb-949f-32482aa30e61.png)
+
+
+5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
+6. 
+
+![image](https://user-images.githubusercontent.com/85263529/125393840-49437f00-e36e-11eb-8487-b229c0dd4534.png)
+
+
+7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
+las potencias disipadas por los resistores en el circuito de la figura 8-68.
+
+
+![image](https://user-images.githubusercontent.com/85263529/125393848-4f396000-e36e-11eb-88ce-4deea841e4de.png)
+
+8-2 Conversiones de fuente
+
+
+
+9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente
+equivalente.
+
+
+![image](https://user-images.githubusercontent.com/85263529/125393961-80199500-e36e-11eb-87cc-9020c95f308f.png)
+
+
+
 
 
 
