@@ -715,15 +715,25 @@ La Ecuación de Nodos:
 
 47.- Vea el circuito puente de la figura 8-100:
 
+![imagen](https://user-images.githubusercontent.com/85263529/125488219-1a553974-da49-4515-b0ab-ee72ca93e84f.png)
+
 a. ¿El puente está balanceado? Explique.
+
+![imagen](https://user-images.githubusercontent.com/85263529/125488377-ef97a772-579a-4023-8486-147ebac189ba.png)
+
+Por lo tanto no esta balanceado ya que no cumple con la igualdad.
 
 b. Escriba las ecuaciones de malla.
 
+![imagen](https://user-images.githubusercontent.com/85263529/125488535-5e9ed03e-ef67-4b6c-b986-984ba0b1cd70.png)
+
 c. Calcule la corriente a través de R5.
+
+![imagen](https://user-images.githubusercontent.com/85263529/125488592-6070f03a-e126-4d2b-8802-2295f1be2e08.png)
 
 d. Determine el voltaje en R5.
 
-![imagen](https://user-images.githubusercontent.com/85263529/125437618-49b97f9b-4a92-43c6-b34c-ac627d4dedbf.png)
+![imagen](https://user-images.githubusercontent.com/85263529/125488665-1bb3980c-8042-4475-9d6a-f45dbea988e5.png)
 
 49.- En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.
 
